@@ -1,0 +1,32 @@
+{
+  "produkty" : [ {
+    "typ" : "komputer",
+    "id" : 1,
+    "nazwa" : "ro32",
+    "cena" : 8000,
+    "marka" : "asus",
+    "ram" : 80
+  }, {
+    "typ" : "dron",
+    "id" : 2,
+    "nazwa" : "droooon",
+    "cena" : 500,
+    "zasieg" : 750.0,
+    "czyMaKamere" : true
+  }, {
+    "typ" : "komputer",
+    "id" : 1,
+    "nazwa" : "xps",
+    "cena" : 2154,
+    "marka" : "dell",
+    "ram" : 4
+  }, {
+    "typ" : "dron",
+    "id" : 2,
+    "nazwa" : "faaas",
+    "cena" : 780,
+    "zasieg" : 900.0,
+    "czyMaKamere" : false
+  } ],
+  "nazwa" : "www.amazon.com"
+}

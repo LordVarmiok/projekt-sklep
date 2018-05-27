@@ -1,0 +1,17 @@
+package main;
+
+import controller.Menu;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Menu menu = new Menu();
+        menu.wyswietlMenu();
+
+    }
+}
+
+
+//klasa komputer
+//Menu
+//Sklep

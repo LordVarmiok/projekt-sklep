@@ -1,0 +1,21 @@
+{
+  "nazwa" : "www.amazon.com",
+  "produkty" : [
+    {
+      "typ" : "komputer",
+      "id" : 1,
+      "nazwa" : "Mac Book",
+      "cena" : 1000.99,
+      "marka" : "Apple",
+      "ram" : 8
+    },
+    {
+      "typ" : "dron",
+      "id" : 2,
+      "nazwa" : "dron",
+      "cena" : 899.99,
+      "zasieg" : 3.45,
+      "czyMaKamere" : "true"
+    }
+  ]
+}
